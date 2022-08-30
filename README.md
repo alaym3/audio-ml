@@ -10,6 +10,8 @@
   - Also look [here](https://magenta.tensorflow.org/music-vae)
 
 ## Next step is to input my own midi files to use musicVAE
-- but https://midi-me.glitch.me/ offers that without adjusting code - try first
+
+https://midi-me.glitch.me/ offers that without adjusting code - play around with that first
+- make MIDI thru ableton or find sounds online (such as [here](https://www.vgmusic.com/music/console/nintendo/n64/))
 
 2. ....
